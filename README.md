@@ -13,6 +13,7 @@ Used Kaggle data set for hotel Booking dataset predict cancelation of reservatio
 - > Filled missing values
 - > converted float values to integers values for easier calulation using floor method.
 
+### Used seaborn and matlab to plot vizualization of the data.
 ### After cleaning the data, used the data to train and test a model.
 ### Predictied the model accuracy using decesion tree.
 ### Acheived an acuuracy of 98 percent. 
